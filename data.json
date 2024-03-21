@@ -1,0 +1,2093 @@
+[
+  {
+    "Name": "Joker",
+    "Appearance": "https://balatro.wiki//imported/basic_joker.png",
+    "Type": "Joker",
+    "Rarity": "Common",
+    "Cost": "$4",
+    "Effect": "+4 Mult"
+  },
+  {
+    "Name": "Greedy Joker",
+    "Appearance": "https://balatro.wiki//jokers/greedy_joker.png",
+    "Type": "Joker",
+    "Rarity": "Common",
+    "Cost": "$4",
+    "Effect": "Played cards with Diamond suit give +4 Mult when scored"
+  },
+  {
+    "Name": "Lusty Joker",
+    "Appearance": "https://balatro.wiki//jokers/lusty_joker.png",
+    "Type": "Joker",
+    "Rarity": "Common",
+    "Cost": "$5",
+    "Effect": "Played cards with Heart suit give +4 Mult when scored"
+  },
+  {
+    "Name": "Wrathful Joker",
+    "Appearance": "https://balatro.wiki//jokers/wrathful_joker.png",
+    "Type": "Joker",
+    "Rarity": "Common",
+    "Cost": "$4",
+    "Effect": "Played cards with Spade suit give +4 Mult when scored"
+  },
+  {
+    "Name": "Gluttonous Joker",
+    "Appearance": "https://balatro.wiki//jokers/gluttonous_joker.png",
+    "Type": "Joker",
+    "Rarity": "Common",
+    "Cost": "$4",
+    "Effect": "Played cards with Club suit give +4 Mult when scored"
+  },
+  {
+    "Name": "Jolly Joker",
+    "Appearance": "https://balatro.wiki//jokers/jolly_joker.png",
+    "Type": "Joker",
+    "Rarity": "Common",
+    "Cost": "$4",
+    "Effect": "+8 Mult if played hand contains a Pair"
+  },
+  {
+    "Name": "Zany Joker",
+    "Appearance": "https://balatro.wiki//jokers/zany_joker.png",
+    "Type": "Joker",
+    "Rarity": "Common",
+    "Cost": "$4",
+    "Effect": "+12 Mult if played hand contains a Three of a Kind"
+  },
+  {
+    "Name": "Mad Joker",
+    "Appearance": "https://balatro.wiki//jokers/mad_joker.png",
+    "Type": "Joker",
+    "Rarity": "Common",
+    "Cost": "$4",
+    "Effect": "+20 Mult if played hand contains a Four of a Kind"
+  },
+  {
+    "Name": "Crazy Joker",
+    "Appearance": "https://balatro.wiki//jokers/crazy_joker.png",
+    "Type": "Joker",
+    "Rarity": "Common",
+    "Cost": "$4",
+    "Effect": "+12 Mult if played hand contains a Straight"
+  },
+  {
+    "Name": "Droll Joker",
+    "Appearance": "https://balatro.wiki//imported/droll_joker.png",
+    "Type": "Joker",
+    "Rarity": "Common",
+    "Cost": "$4",
+    "Effect": "+10 Mult if played hand contains a Flush"
+  },
+  {
+    "Name": "Sly Joker",
+    "Appearance": "https://balatro.wiki//imported/sly_joker.png",
+    "Type": "Joker",
+    "Rarity": "",
+    "Cost": "$4",
+    "Effect": "+50 Chips if played hand contains a Pair"
+  },
+  {
+    "Name": "Wily Joker",
+    "Appearance": "https://balatro.wiki//imported/wily_joker.png",
+    "Type": "Joker",
+    "Rarity": "",
+    "Cost": "$4",
+    "Effect": "+100 Chips if played hand contains a Three of a Kind"
+  },
+  {
+    "Name": "Clever Joker",
+    "Appearance": "https://balatro.wiki//jokers/clever_joker.png",
+    "Type": "Joker",
+    "Rarity": "",
+    "Cost": "$4",
+    "Effect": "+150 Chips if played hand contains a Four of a Kind"
+  },
+  {
+    "Name": "Devious Joker",
+    "Appearance": "https://balatro.wiki//imported/devious_joker.png",
+    "Type": "Joker",
+    "Rarity": "",
+    "Cost": "$4",
+    "Effect": "+100 Chips if played hand contains a Straight"
+  },
+  {
+    "Name": "Crafty Joker",
+    "Appearance": "https://balatro.wiki//imported/crafty_joker.png",
+    "Type": "Joker",
+    "Rarity": "",
+    "Cost": "$4",
+    "Effect": "+80 Chips if played hand contains a Flush"
+  },
+  {
+    "Name": "Half Joker",
+    "Appearance": "https://balatro.wiki//imported/half_joker.png",
+    "Type": "Joker",
+    "Rarity": "Common",
+    "Cost": "$4",
+    "Effect": "+20 Mult if played hand contains 3 or fewer cards"
+  },
+  {
+    "Name": "Joker Stencil",
+    "Appearance": "https://balatro.wiki//imported/joker_stencil.png",
+    "Type": "Joker",
+    "Rarity": "Uncommon",
+    "Cost": "$8",
+    "Effect": "X1 Mult for each empty Joker slot"
+  },
+  {
+    "Name": "Four Fingers",
+    "Appearance": "https://balatro.wiki//imported/five_fingers.png",
+    "Type": "Joker",
+    "Rarity": "Uncommon",
+    "Cost": "$6",
+    "Effect": "All Flushes and Straights can be made with 4 cards"
+  },
+  {
+    "Name": "Mime",
+    "Appearance": "https://balatro.wiki//imported/mime.png",
+    "Type": "Joker",
+    "Rarity": "Uncommon",
+    "Cost": "$4",
+    "Effect": "Retrigger all card held in hand abilities"
+  },
+  {
+    "Name": "Credit Card",
+    "Appearance": "https://balatro.wiki//imported/credit_card.png",
+    "Type": "Joker",
+    "Rarity": "Common",
+    "Cost": "$1",
+    "Effect": "Go up to -$20 in debt"
+  },
+  {
+    "Name": "Ceremonial Dagger",
+    "Appearance": "https://balatro.wiki//imported/ceremonial_dagger.png",
+    "Type": "Joker",
+    "Rarity": "Uncommon",
+    "Cost": "$8",
+    "Effect": "When Blind is selected, destroy card to the right and permanently add double its sell value to this Mult"
+  },
+  {
+    "Name": "Banner",
+    "Appearance": "https://balatro.wiki//imported/banner.png",
+    "Type": "Joker",
+    "Rarity": "Common",
+    "Cost": "$6",
+    "Effect": "+40 Chips for each remaining Discard"
+  },
+  {
+    "Name": "Mystic Summit",
+    "Appearance": "https://balatro.wiki//imported/mystic_summit.png",
+    "Type": "Joker",
+    "Rarity": "Common",
+    "Cost": "$5",
+    "Effect": "+15 Mult when 0 Discards remaining"
+  },
+  {
+    "Name": "Marble Joker",
+    "Appearance": "https://balatro.wiki//imported/marbled_joker.png",
+    "Type": "Joker",
+    "Rarity": "Uncommon",
+    "Cost": "$6",
+    "Effect": "Adds one Stone card to deck at the start of every round"
+  },
+  {
+    "Name": "Loyalty Card",
+    "Appearance": "https://balatro.wiki//imported/loyalty_card.png",
+    "Type": "Joker",
+    "Rarity": "Uncommon",
+    "Cost": "$6",
+    "Effect": "X4 Mult every 6 hands played"
+  },
+  {
+    "Name": "8-Ball",
+    "Appearance": "https://balatro.wiki//jokers/8_ball.png",
+    "Type": "Joker",
+    "Rarity": "Common",
+    "Cost": "",
+    "Effect": "Create a Planet card if played hand contains 2 or more 8s"
+  },
+  {
+    "Name": "Misprint",
+    "Appearance": "https://balatro.wiki//imported/misprint.png",
+    "Type": "Joker",
+    "Rarity": "Common",
+    "Cost": "$4",
+    "Effect": "+[Random] Mult"
+  },
+  {
+    "Name": "Dusk",
+    "Appearance": "https://balatro.wiki//imported/dusk.png",
+    "Type": "Joker",
+    "Rarity": "Uncommon",
+    "Cost": "",
+    "Effect": "Retrigger all played cards in final hand of round"
+  },
+  {
+    "Name": "Raised Fist",
+    "Appearance": "https://balatro.wiki//imported/raised_first.png",
+    "Type": "Joker",
+    "Rarity": "Common",
+    "Cost": "",
+    "Effect": "Adds double the rank of lowest card held in hand to Mult"
+  },
+  {
+    "Name": "Chaos the Clown",
+    "Appearance": "https://balatro.wiki//imported/chaos_the_clown.png",
+    "Type": "Joker",
+    "Rarity": "Common",
+    "Cost": "$5",
+    "Effect": "1 free Reroll per Shop"
+  },
+  {
+    "Name": "Fibonacci",
+    "Appearance": "https://balatro.wiki//imported/fibonacci.png",
+    "Type": "Joker",
+    "Rarity": "Uncommon",
+    "Cost": "",
+    "Effect": "Each played Ace, 2, 3, 5, or 8 gives +8 Mult when scored"
+  },
+  {
+    "Name": "Steel Joker",
+    "Appearance": "https://balatro.wiki//imported/steel_joker.png",
+    "Type": "Joker",
+    "Rarity": "Uncommon",
+    "Cost": "$6",
+    "Effect": "This Joker gains X0.25 Mult for each Steel Card in your full deck"
+  },
+  {
+    "Name": "Scary Face",
+    "Appearance": "https://balatro.wiki//imported/scary_face.png",
+    "Type": "Joker",
+    "Rarity": "Common",
+    "Cost": "$4",
+    "Effect": "Played Face cards give +30 Chips when scored"
+  },
+  {
+    "Name": "Abstract Joker",
+    "Appearance": "https://balatro.wiki//imported/abstract_joker.png",
+    "Type": "Joker",
+    "Rarity": "Common",
+    "Cost": "$4",
+    "Effect": "+3 Mult for each Joker card"
+  },
+  {
+    "Name": "Delayed Gratification",
+    "Appearance": "https://balatro.wiki//imported/delayed_gratification.png",
+    "Type": "Joker",
+    "Rarity": "Common",
+    "Cost": "$4",
+    "Effect": "Gain $2 per discard if no discards are used by end of the round"
+  },
+  {
+    "Name": "Hack",
+    "Appearance": "https://balatro.wiki//imported/hack.png",
+    "Type": "Joker",
+    "Rarity": "Uncommon",
+    "Cost": "",
+    "Effect": "Retrigger each played 2, 3, 4, or 5"
+  },
+  {
+    "Name": "Pareidolia",
+    "Appearance": "https://balatro.wiki//imported/pareidolia.png",
+    "Type": "Joker",
+    "Rarity": "Uncommon",
+    "Cost": "",
+    "Effect": "All cards are considered Face cards"
+  },
+  {
+    "Name": "Gros Michel",
+    "Appearance": "https://balatro.wiki//imported/gros_michel.png",
+    "Type": "Joker",
+    "Rarity": "Common",
+    "Cost": "$5",
+    "Effect": "+15 Mult 1 in 4 chance this card is destroyed at end of round"
+  },
+  {
+    "Name": "Even Steven",
+    "Appearance": "https://balatro.wiki//imported/even_steven.png",
+    "Type": "Joker",
+    "Rarity": "Common",
+    "Cost": "$4",
+    "Effect": "Played cards with even rank give +4 Mult when scored"
+  },
+  {
+    "Name": "Odd Todd",
+    "Appearance": "https://balatro.wiki//imported/odd_todd.png",
+    "Type": "Joker",
+    "Rarity": "Common",
+    "Cost": "$4",
+    "Effect": "Played cards with even rank give +30 chips when scored"
+  },
+  {
+    "Name": "Scholar",
+    "Appearance": "https://balatro.wiki//imported/scholar.png",
+    "Type": "Joker",
+    "Rarity": "Common",
+    "Cost": "$5",
+    "Effect": "Played Aces each give extra +20 Chips and +4 Mult when scored"
+  },
+  {
+    "Name": "Business Card",
+    "Appearance": "https://balatro.wiki//imported/business_card.png",
+    "Type": "Joker",
+    "Rarity": "Common",
+    "Cost": "$4",
+    "Effect": "Played face cards have a 1 in 2 chance to give $2 when scored"
+  },
+  {
+    "Name": "Supernova",
+    "Appearance": "https://balatro.wiki//imported/supernova.png",
+    "Type": "Joker",
+    "Rarity": "Common",
+    "Cost": "$5",
+    "Effect": "Adds the number of times poker hand has been played to Mult"
+  },
+  {
+    "Name": "Ride the Bus",
+    "Appearance": "https://balatro.wiki//imported/ride_the_bus.png",
+    "Type": "Joker",
+    "Rarity": "Common",
+    "Cost": "$5",
+    "Effect": "+1 Mult per consecutive hand played without a scoring face card"
+  },
+  {
+    "Name": "Space Joker",
+    "Appearance": "https://balatro.wiki//imported/space_joker.png",
+    "Type": "Joker",
+    "Rarity": "Uncommon",
+    "Cost": "",
+    "Effect": "1 in 4 chance to upgrade level of played poker hand"
+  },
+  {
+    "Name": "Egg",
+    "Appearance": "https://balatro.wiki//imported/egg.png",
+    "Type": "Joker",
+    "Rarity": "Common",
+    "Cost": "$4",
+    "Effect": "Gains $3 sell value at end of round"
+  },
+  {
+    "Name": "Burglar",
+    "Appearance": "https://balatro.wiki//imported/burglar.png",
+    "Type": "Joker",
+    "Rarity": "Uncommon",
+    "Cost": "",
+    "Effect": "When Blind is chosen, gain +3 Hands and lose all discards"
+  },
+  {
+    "Name": "Blackboard",
+    "Appearance": "https://balatro.wiki//imported/blackboard.png",
+    "Type": "Joker",
+    "Rarity": "Uncommon",
+    "Cost": "$8",
+    "Effect": "X3 Mult if all cards held in hand are Spades or Clubs"
+  },
+  {
+    "Name": "Runner",
+    "Appearance": "https://balatro.wiki//imported/runner.png",
+    "Type": "Joker",
+    "Rarity": "Common",
+    "Cost": "$6",
+    "Effect": "+20 Chips Gains +10 Chips if played hand contains a Straight"
+  },
+  {
+    "Name": "Ice Cream",
+    "Appearance": "https://balatro.wiki//imported/ice_cream.png",
+    "Type": "Joker",
+    "Rarity": "Common",
+    "Cost": "$5",
+    "Effect": "+100 Chips -5 Chips for every hand played"
+  },
+  {
+    "Name": "DNA",
+    "Appearance": "https://balatro.wiki//imported/dna.png",
+    "Type": "Joker",
+    "Rarity": "Rare",
+    "Cost": "",
+    "Effect": "If first hand of round has only 1 card, add a permanent copy to deck and draw it to hand"
+  },
+  {
+    "Name": "Splash",
+    "Appearance": "https://balatro.wiki//imported/splash.png",
+    "Type": "Joker",
+    "Rarity": "Common",
+    "Cost": "",
+    "Effect": "Every played card counts in scoring"
+  },
+  {
+    "Name": "Blue Joker",
+    "Appearance": "https://balatro.wiki//jokers/blue_joker.png",
+    "Type": "Joker",
+    "Rarity": "Common",
+    "Cost": "",
+    "Effect": "+2 Chips for each remaining card in deck"
+  },
+  {
+    "Name": "Sixth Sense",
+    "Appearance": "https://balatro.wiki//jokers/sixth_sense.png",
+    "Type": "Joker",
+    "Rarity": "Rare",
+    "Cost": "",
+    "Effect": "In first hand of round is a single 6, destroy it and create a Spectral card"
+  },
+  {
+    "Name": "Constellation",
+    "Appearance": "https://balatro.wiki//imported/constellation.png",
+    "Type": "Joker",
+    "Rarity": "Uncommon",
+    "Cost": "$6",
+    "Effect": "Gains X0.1 Mult per Planet card used"
+  },
+  {
+    "Name": "Hiker",
+    "Appearance": "https://balatro.wiki//imported/hiker.png",
+    "Type": "Joker",
+    "Rarity": "Uncommon",
+    "Cost": "$6",
+    "Effect": "Every played card permanently gains +4 Chips when scored"
+  },
+  {
+    "Name": "Faceless Joker",
+    "Appearance": "https://balatro.wiki//jokers/faceless_joker.png",
+    "Type": "Joker",
+    "Rarity": "Common",
+    "Cost": "$5",
+    "Effect": "Earn 5$ if 3 or more face cards are discarded at the same time"
+  },
+  {
+    "Name": "Green Joker",
+    "Appearance": "https://balatro.wiki//imported/green_joker.png",
+    "Type": "Joker",
+    "Rarity": "Common",
+    "Cost": "$5",
+    "Effect": "+1 Mult per hand played -1 Mult per discard"
+  },
+  {
+    "Name": "Superposition",
+    "Appearance": "https://balatro.wiki//imported/superposition.png",
+    "Type": "Joker",
+    "Rarity": "Common",
+    "Cost": "$5",
+    "Effect": "Create a Tarot card if poker hand contains an Ace and a Straight"
+  },
+  {
+    "Name": "To Do List",
+    "Appearance": "https://balatro.wiki//imported/to-do_list.png",
+    "Type": "Joker",
+    "Rarity": "Common",
+    "Cost": "$5",
+    "Effect": "Gain $4 if poker hand is a [Hand Type], poker hand changes every payout"
+  },
+  {
+    "Name": "Cavendish",
+    "Appearance": "https://balatro.wiki//jokers/cavendish.png",
+    "Type": "Joker",
+    "Rarity": "Common",
+    "Cost": "$5",
+    "Effect": "X3 Mult  1 in 1000 chance this card is destroyed at end of round"
+  },
+  {
+    "Name": "Card Sharp",
+    "Appearance": "https://balatro.wiki//jokers/card_sharp.png",
+    "Type": "Joker",
+    "Rarity": "Uncommon",
+    "Cost": "$5",
+    "Effect": "X3 Mult if played in poker hand has already been played this round"
+  },
+  {
+    "Name": "Red Card",
+    "Appearance": "https://balatro.wiki//jokers/red_card.png",
+    "Type": "Joker",
+    "Rarity": "Common",
+    "Cost": "$5",
+    "Effect": "Gains +3 Mult when any Booster Pack is skipped"
+  },
+  {
+    "Name": "Madness",
+    "Appearance": "https://balatro.wiki//jokers/madness.png",
+    "Type": "Joker",
+    "Rarity": "Uncommon",
+    "Cost": "$5",
+    "Effect": "When Blind is selected, gain X0.5 Mult and destroy a random Joker"
+  },
+  {
+    "Name": "Square Joker",
+    "Appearance": "https://balatro.wiki//jokers/square_joker.png",
+    "Type": "Joker",
+    "Rarity": "Common",
+    "Cost": "$",
+    "Effect": "Gains +4 Chips if played hand has exactly 4 cards"
+  },
+  {
+    "Name": "Séance",
+    "Appearance": "https://balatro.wiki//imported/seance.png",
+    "Type": "Joker",
+    "Rarity": "Rare",
+    "Cost": "",
+    "Effect": "If poker hand is a Straight Flush, create a random Spectral card"
+  },
+  {
+    "Name": "Riff-raff",
+    "Appearance": "https://balatro.wiki//jokers/riff-raff.png",
+    "Type": "Joker",
+    "Rarity": "Common",
+    "Cost": "$",
+    "Effect": "When Blind is selected, create 2 Common Jokers"
+  },
+  {
+    "Name": "Vampire",
+    "Appearance": "https://balatro.wiki//jokers/vampire.png",
+    "Type": "Joker",
+    "Rarity": "Uncommon",
+    "Cost": "$5",
+    "Effect": "Gains X0.2 Mult per Enhanced card played, removed card Enhancement"
+  },
+  {
+    "Name": "Shortcut",
+    "Appearance": "https://balatro.wiki//imported/shortcut.png",
+    "Type": "Joker",
+    "Rarity": "Uncommon",
+    "Cost": "$5",
+    "Effect": "Allows Straights to be made with gaps of 1 rank"
+  },
+  {
+    "Name": "Hologram",
+    "Appearance": "https://balatro.wiki//imported/hologram.png",
+    "Type": "Joker",
+    "Rarity": "Uncommon",
+    "Cost": "$5",
+    "Effect": "Gains 0.25X Mult per playing card added to your deck"
+  },
+  {
+    "Name": "Vagabond",
+    "Appearance": "https://balatro.wiki//imported/vagabond.png",
+    "Type": "Joker",
+    "Rarity": "Uncommon",
+    "Cost": "$5",
+    "Effect": "Create a Tarot card if hand is played with $3 or less"
+  },
+  {
+    "Name": "Baron",
+    "Appearance": "https://balatro.wiki//jokers/baron.png",
+    "Type": "Joker",
+    "Rarity": "Rare",
+    "Cost": "",
+    "Effect": "Each King held in hand gives X1.5 Mult"
+  },
+  {
+    "Name": "Cloud 9",
+    "Appearance": "https://balatro.wiki//jokers/cloud_9.png",
+    "Type": "Joker",
+    "Rarity": "Uncommon",
+    "Cost": "$5",
+    "Effect": "Earn $1 for each 9 in your full deck at end of round"
+  },
+  {
+    "Name": "Rocket",
+    "Appearance": "https://balatro.wiki//jokers/rocket.png",
+    "Type": "Joker",
+    "Rarity": "Uncommon",
+    "Cost": "$5",
+    "Effect": "Earn $1 at end of round. Gains $2 when Boss Blind is defeated"
+  },
+  {
+    "Name": "Obelisk",
+    "Appearance": "https://balatro.wiki//imported/obelisk.png",
+    "Type": "Joker",
+    "Rarity": "Rare",
+    "Cost": "",
+    "Effect": "0.2X Mult per consecutive hand played without playing your most played Poker Hand"
+  },
+  {
+    "Name": "Midas Mask",
+    "Appearance": "https://balatro.wiki//jokers/midas_mask.png",
+    "Type": "Joker",
+    "Rarity": "Uncommon",
+    "Cost": "$5",
+    "Effect": "All Face cards become Gold cards when played"
+  },
+  {
+    "Name": "Luchador",
+    "Appearance": "https://balatro.wiki//jokers/luchador.png",
+    "Type": "Joker",
+    "Rarity": "Uncommon",
+    "Cost": "$5",
+    "Effect": "Sell this card to disable the current Boss Blind"
+  },
+  {
+    "Name": "Photograph",
+    "Appearance": "https://balatro.wiki//imported/photograph.png",
+    "Type": "Joker",
+    "Rarity": "Common",
+    "Cost": "$4",
+    "Effect": "First played face card gives X2 Mult when scored"
+  },
+  {
+    "Name": "Gift Card",
+    "Appearance": "https://balatro.wiki//imported/gift_card.png",
+    "Type": "Joker",
+    "Rarity": "Uncommon",
+    "Cost": "$5",
+    "Effect": "Add $1 of sell value to every Joker and Consumable card at end of round"
+  },
+  {
+    "Name": "Turtle Bean",
+    "Appearance": "https://balatro.wiki//jokers/turtle_bean.png",
+    "Type": "Joker",
+    "Rarity": "Uncommon",
+    "Cost": "$5",
+    "Effect": "+5 hand size, reduces by 1 every round"
+  },
+  {
+    "Name": "Erosion",
+    "Appearance": "https://balatro.wiki//jokers/erosion.png",
+    "Type": "Joker",
+    "Rarity": "Uncommon",
+    "Cost": "$5",
+    "Effect": "+4 Mult for each card below 52 in your full deck"
+  },
+  {
+    "Name": "Reserved Parking",
+    "Appearance": "https://balatro.wiki//imported/reserved_parking.png",
+    "Type": "Joker",
+    "Rarity": "Uncommon",
+    "Cost": "$5",
+    "Effect": "Each face card held in hand has a 1 in 2 chance to give $1"
+  },
+  {
+    "Name": "Mail-In Rebate",
+    "Appearance": "https://balatro.wiki//jokers/mail-in_rebate.png",
+    "Type": "Joker",
+    "Rarity": "Common",
+    "Cost": "",
+    "Effect": "Earn $3 for each discarded Ace, rank changes every round"
+  },
+  {
+    "Name": "To the Moon",
+    "Appearance": "https://balatro.wiki//jokers/to_the_moon.png",
+    "Type": "Joker",
+    "Rarity": "Uncommon",
+    "Cost": "",
+    "Effect": "Each an extra $1 of interest for every $5 you have at end of round"
+  },
+  {
+    "Name": "Hallucination",
+    "Appearance": "https://balatro.wiki//jokers/hallucination.png",
+    "Type": "Joker",
+    "Rarity": "Common",
+    "Cost": "",
+    "Effect": "1 in 2 chance to create a Tarot card when any Booster Pack is opened"
+  },
+  {
+    "Name": "Fortune Teller",
+    "Appearance": "https://balatro.wiki//imported/fortune_teller.png",
+    "Type": "Joker",
+    "Rarity": "Common",
+    "Cost": "$4",
+    "Effect": "+1 Mult per Tarot card used this run"
+  },
+  {
+    "Name": "Juggler",
+    "Appearance": "https://balatro.wiki//imported/juggler.png",
+    "Type": "Joker",
+    "Rarity": "Common",
+    "Cost": "$4",
+    "Effect": "+1 hand size"
+  },
+  {
+    "Name": "Drunkard",
+    "Appearance": "https://balatro.wiki//imported/drunkard.png",
+    "Type": "Joker",
+    "Rarity": "Common",
+    "Cost": "$4",
+    "Effect": "+1 discard"
+  },
+  {
+    "Name": "Stone Joker",
+    "Appearance": "https://balatro.wiki//imported/stone_joker.png",
+    "Type": "Joker",
+    "Rarity": "Uncommon",
+    "Cost": "$4",
+    "Effect": "This Joker gains +25 Chips for each Stone Card in your full deck"
+  },
+  {
+    "Name": "Golden Joker",
+    "Appearance": "https://balatro.wiki//imported/golden_joker.png",
+    "Type": "Joker",
+    "Rarity": "Common",
+    "Cost": "$6",
+    "Effect": "Earn $4 at the end of round"
+  },
+  {
+    "Name": "Lucky Cat",
+    "Appearance": "https://balatro.wiki//jokers/lucky_cat.png",
+    "Type": "Joker",
+    "Rarity": "Uncommon",
+    "Cost": "$4",
+    "Effect": "Gains X0.2 Mult each time a Lucky card successfully triggers"
+  },
+  {
+    "Name": "Baseball Card",
+    "Appearance": "https://balatro.wiki//imported/baseball_card.png",
+    "Type": "Joker",
+    "Rarity": "Rare",
+    "Cost": "",
+    "Effect": "Uncommon Jokers each give X1.5 Mult"
+  },
+  {
+    "Name": "Bull",
+    "Appearance": "https://balatro.wiki//imported/bull.png",
+    "Type": "Joker",
+    "Rarity": "Uncommon",
+    "Cost": "$5",
+    "Effect": "+2 Chips for each dollar you have"
+  },
+  {
+    "Name": "Diet Cola",
+    "Appearance": "https://balatro.wiki//imported/diet_cola.png",
+    "Type": "Joker",
+    "Rarity": "Uncommon",
+    "Cost": "$5",
+    "Effect": "Sell this card to create a free Double Tag"
+  },
+  {
+    "Name": "Trading Card",
+    "Appearance": "https://balatro.wiki//imported/trading_card.png",
+    "Type": "Joker",
+    "Rarity": "Uncommon",
+    "Cost": "$5",
+    "Effect": "If first discard of round has only 1 card, destroy it and earn $3"
+  },
+  {
+    "Name": "Flash Card",
+    "Appearance": "https://balatro.wiki//jokers/flash_card.png",
+    "Type": "Joker",
+    "Rarity": "Uncommon",
+    "Cost": "$5",
+    "Effect": "+2 Mult per reroll in the shop"
+  },
+  {
+    "Name": "Popcorn",
+    "Appearance": "https://balatro.wiki//imported/popcorn.png",
+    "Type": "Joker",
+    "Rarity": "Common",
+    "Cost": "",
+    "Effect": "+20 Mult -4 Mult per round played"
+  },
+  {
+    "Name": "Spare Trousers",
+    "Appearance": "https://balatro.wiki//imported/spare_trousers.png",
+    "Type": "Joker",
+    "Rarity": "Uncommon",
+    "Cost": "$5",
+    "Effect": "Gains +2 Mult if played hand contains a Two Pair"
+  },
+  {
+    "Name": "Ancient Joker",
+    "Appearance": "https://balatro.wiki//jokers/ancient_joker.png",
+    "Type": "Joker",
+    "Rarity": "Rare",
+    "Cost": "",
+    "Effect": "Each played card with suit Suit gives X1.5 Mult when scored"
+  },
+  {
+    "Name": "Ramen",
+    "Appearance": "https://balatro.wiki//imported/ramen.png",
+    "Type": "Joker",
+    "Rarity": "Uncommon",
+    "Cost": "$5",
+    "Effect": "X2 Mult, loses X0.01 Mult per card discarded"
+  },
+  {
+    "Name": "Walkie Talkie",
+    "Appearance": "https://balatro.wiki//jokers/walkie_talkie.png",
+    "Type": "Joker",
+    "Rarity": "Common",
+    "Cost": "",
+    "Effect": "Each played 10 or 4 gives +10 Chips and +4 Mult"
+  },
+  {
+    "Name": "Seltzer",
+    "Appearance": "https://balatro.wiki//jokers/seltzer.png",
+    "Type": "Joker",
+    "Rarity": "Uncommon",
+    "Cost": "$5",
+    "Effect": "Retrigger all cards played for the next 10 hands"
+  },
+  {
+    "Name": "Castle",
+    "Appearance": "https://balatro.wiki//jokers/castle.png",
+    "Type": "Joker",
+    "Rarity": "Uncommon",
+    "Cost": "$5",
+    "Effect": "This Joker gains +3 Chips per discarded (suit)Spade card, suit changes every round"
+  },
+  {
+    "Name": "Smiley Face",
+    "Appearance": "https://balatro.wiki//jokers/smiley_face.png",
+    "Type": "Joker",
+    "Rarity": "Common",
+    "Cost": "",
+    "Effect": "Played face cards give +4 Mult when scored"
+  },
+  {
+    "Name": "Campfire",
+    "Appearance": "https://balatro.wiki//jokers/campfire.png",
+    "Type": "Joker",
+    "Rarity": "Rare",
+    "Cost": "",
+    "Effect": "This Joker gains X0.5 Mult for each card sold, resets when Boss Blind is defeated"
+  },
+  {
+    "Name": "Golden Ticket",
+    "Appearance": "https://balatro.wiki//imported/golden_ticket.png",
+    "Type": "Joker",
+    "Rarity": "Common",
+    "Cost": "$5",
+    "Effect": "Played Gold cards earn $3 when scored"
+  },
+  {
+    "Name": "Mr. Bones",
+    "Appearance": "https://balatro.wiki//imported/mr._bones.png",
+    "Type": "Joker",
+    "Rarity": "Uncommon",
+    "Cost": "$5",
+    "Effect": "Prevents Death if chips scored are at least 25% of required chips"
+  },
+  {
+    "Name": "Acrobat",
+    "Appearance": "https://balatro.wiki//imported/acrobat.png",
+    "Type": "Joker",
+    "Rarity": "Uncommon",
+    "Cost": "$5",
+    "Effect": "X3 Mult on final hand of round"
+  },
+  {
+    "Name": "Sock and Buskin",
+    "Appearance": "https://balatro.wiki//imported/sock_and_buskin.png",
+    "Type": "Joker",
+    "Rarity": "Uncommon",
+    "Cost": "$6",
+    "Effect": "Retrigger all played face cards"
+  },
+  {
+    "Name": "Swashbuckler",
+    "Appearance": "https://balatro.wiki//imported/swashbuckler.png",
+    "Type": "Joker",
+    "Rarity": "Common",
+    "Cost": "$5",
+    "Effect": "Adds the sell value of all owned Jokers left of this card to Mult"
+  },
+  {
+    "Name": "Troubadour",
+    "Appearance": "https://balatro.wiki//imported/troubadour.png",
+    "Type": "Joker",
+    "Rarity": "Uncommon",
+    "Cost": "$5",
+    "Effect": "+2 hand size, -1 hands per round"
+  },
+  {
+    "Name": "Certificate",
+    "Appearance": "https://balatro.wiki//imported/certificate.png",
+    "Type": "Joker",
+    "Rarity": "Uncommon",
+    "Cost": "$5",
+    "Effect": "When round begins, add a random playing card with a random seal to your hand"
+  },
+  {
+    "Name": "Smeared Joker",
+    "Appearance": "https://balatro.wiki//imported/smeared_joker.png",
+    "Type": "Joker",
+    "Rarity": "Uncommon",
+    "Cost": "$5",
+    "Effect": "Hearts and Diamonds count as the same suit, Spades and Clubs count as the same suit."
+  },
+  {
+    "Name": "Throwback",
+    "Appearance": "https://balatro.wiki//imported/throwback.png",
+    "Type": "Joker",
+    "Rarity": "Uncommon",
+    "Cost": "$6",
+    "Effect": "X0.25 Mult for each Blind skipped this run"
+  },
+  {
+    "Name": "Hanging Chad",
+    "Appearance": "https://balatro.wiki//imported/hanging_chad.png",
+    "Type": "Joker",
+    "Rarity": "Common",
+    "Cost": "$5",
+    "Effect": "Retrigger first card used in scoring"
+  },
+  {
+    "Name": "Rough Gem",
+    "Appearance": "https://balatro.wiki//imported/rough_gem.png",
+    "Type": "Joker",
+    "Rarity": "Uncommon",
+    "Cost": "$9",
+    "Effect": "Played cards with Diamond suit earn $1 when scored"
+  },
+  {
+    "Name": "Bloodstone",
+    "Appearance": "https://balatro.wiki//imported/bloodstone.png",
+    "Type": "Joker",
+    "Rarity": "Uncommon",
+    "Cost": "$9",
+    "Effect": "1 in 3 chance for played cards with Heart suit to give X2 Mult when scored"
+  },
+  {
+    "Name": "Arrowhead",
+    "Appearance": "https://balatro.wiki//imported/arrowhead.png",
+    "Type": "Joker",
+    "Rarity": "Uncommon",
+    "Cost": "$9",
+    "Effect": "Played cards with Spade suit give +50 Chips when scored"
+  },
+  {
+    "Name": "Onyx Agate",
+    "Appearance": "https://balatro.wiki//imported/onyx_agate.png",
+    "Type": "Joker",
+    "Rarity": "Uncommon",
+    "Cost": "$9",
+    "Effect": "Played cards with Club suit give +8 Mult when scored"
+  },
+  {
+    "Name": "Glass Joker",
+    "Appearance": "https://balatro.wiki//imported/glass_joker.png",
+    "Type": "Joker",
+    "Rarity": "Uncommon",
+    "Cost": "$6",
+    "Effect": "Gains X0.5 Mult for every Glass Card that is destroyed"
+  },
+  {
+    "Name": "Showman",
+    "Appearance": "https://balatro.wiki//imported/ring_master.png",
+    "Type": "Joker",
+    "Rarity": "Uncommon",
+    "Cost": "$6",
+    "Effect": "Joker, Tarot, Planet, and Spectral cards may appear multiple times"
+  },
+  {
+    "Name": "Flower Pot",
+    "Appearance": "https://balatro.wiki//imported/flower_pot.png",
+    "Type": "Joker",
+    "Rarity": "Uncommon",
+    "Cost": "$8",
+    "Effect": "X3 Mult if played hand has a scoring Diamond card, Club card, Heart card, and Spade card"
+  },
+  {
+    "Name": "Blueprint",
+    "Appearance": "https://balatro.wiki//imported/blueprint.png",
+    "Type": "Joker",
+    "Rarity": "Rare",
+    "Cost": "",
+    "Effect": "Copies ability of Joker to the right"
+  },
+  {
+    "Name": "Wee Joker",
+    "Appearance": "https://balatro.wiki//imported/basic_joker.png",
+    "Type": "Joker",
+    "Rarity": "Rare",
+    "Cost": "",
+    "Effect": "This Joker gains +8 Chips when each played 2 is scored"
+  },
+  {
+    "Name": "Merry Andy",
+    "Appearance": "https://balatro.wiki//imported/merry_andy.png",
+    "Type": "Joker",
+    "Rarity": "Uncommon",
+    "Cost": "$6",
+    "Effect": "+3 discards, -1 hand size"
+  },
+  {
+    "Name": "Oops! All 6s",
+    "Appearance": "https://balatro.wiki//imported/oops!_all_6s.png",
+    "Type": "Joker",
+    "Rarity": "Uncommon",
+    "Cost": "$6",
+    "Effect": "Doubles all probabilities"
+  },
+  {
+    "Name": "The Idol",
+    "Appearance": "https://balatro.wiki//imported/the_idol.png",
+    "Type": "Joker",
+    "Rarity": "Uncommon",
+    "Cost": "$6",
+    "Effect": "X2 Mult for each [Card] when scored, Card changes every round"
+  },
+  {
+    "Name": "Seeing Double",
+    "Appearance": "https://balatro.wiki//imported/seeing_double.png",
+    "Type": "Joker",
+    "Rarity": "Uncommon",
+    "Cost": "$6",
+    "Effect": "X2 Mult if played hand has a scoring Club card and a scoring card of any other suit"
+  },
+  {
+    "Name": "Matador",
+    "Appearance": "https://balatro.wiki//imported/matador.png",
+    "Type": "Joker",
+    "Rarity": "Uncommon",
+    "Cost": "$6",
+    "Effect": "Earn $8 if played hand triggers the Boss Blind ability"
+  },
+  {
+    "Name": "Hit the Road",
+    "Appearance": "https://balatro.wiki//imported/hit_the_road.png",
+    "Type": "Joker",
+    "Rarity": "Rare",
+    "Cost": "",
+    "Effect": "Gains X0.5 Mult per discarded Jack this round"
+  },
+  {
+    "Name": "The Duo",
+    "Appearance": "https://balatro.wiki//imported/the_duo.png",
+    "Type": "Joker",
+    "Rarity": "Rare",
+    "Cost": "",
+    "Effect": "X2 Mult if the played hand contains a Pair"
+  },
+  {
+    "Name": "The Trio",
+    "Appearance": "https://balatro.wiki//imported/the_trio.png",
+    "Type": "Joker",
+    "Rarity": "Rare",
+    "Cost": "",
+    "Effect": "X3 Mult if played hand contains a Three of a Kind"
+  },
+  {
+    "Name": "The Family",
+    "Appearance": "https://balatro.wiki//imported/the_family.png",
+    "Type": "Joker",
+    "Rarity": "Rare",
+    "Cost": "",
+    "Effect": "X4 Mult if played hand contains a Four of a Kind"
+  },
+  {
+    "Name": "The Order",
+    "Appearance": "https://balatro.wiki//imported/the_order.png",
+    "Type": "Joker",
+    "Rarity": "Rare",
+    "Cost": "",
+    "Effect": "X3 Mult if played hand contains a Straight"
+  },
+  {
+    "Name": "The Tribe",
+    "Appearance": "https://balatro.wiki//imported/the_tribe.png",
+    "Type": "Joker",
+    "Rarity": "Rare",
+    "Cost": "",
+    "Effect": "X2 Mult if played hand contains a Flush"
+  },
+  {
+    "Name": "Stuntman",
+    "Appearance": "https://balatro.wiki//imported/stuntman.png",
+    "Type": "Joker",
+    "Rarity": "Uncommon",
+    "Cost": "$6",
+    "Effect": "+300 Chips, -2 hand size"
+  },
+  {
+    "Name": "Invisible Joker",
+    "Appearance": "https://balatro.wiki//imported/invisible_joker.png",
+    "Type": "Joker",
+    "Rarity": "Rare",
+    "Cost": "",
+    "Effect": "After 3 rounds, sell this card to Duplicate a random Joker"
+  },
+  {
+    "Name": "Brainstorm",
+    "Appearance": "https://balatro.wiki//imported/brainstorm.png",
+    "Type": "Joker",
+    "Rarity": "Rare",
+    "Cost": "",
+    "Effect": "Copies ability of leftmost Joker"
+  },
+  {
+    "Name": "Satellite",
+    "Appearance": "https://balatro.wiki//imported/satellite.png",
+    "Type": "Joker",
+    "Rarity": "Uncommon",
+    "Cost": "$6",
+    "Effect": "Earn $1 at the end of round per unique Planet card used this run"
+  },
+  {
+    "Name": "Shoot the Moon",
+    "Appearance": "https://balatro.wiki//imported/shoot_the_moon.png",
+    "Type": "Joker",
+    "Rarity": "Common",
+    "Cost": "$5",
+    "Effect": "+13 Mult for each Queen held in hand"
+  },
+  {
+    "Name": "Driver's License",
+    "Appearance": "https://balatro.wiki//imported/drivers_license.png",
+    "Type": "Joker",
+    "Rarity": "Rare",
+    "Cost": "",
+    "Effect": "X3 Mult if deck has at least 16 Enhanced cards"
+  },
+  {
+    "Name": "Cartomancer",
+    "Appearance": "https://balatro.wiki//imported/cartomancer.png",
+    "Type": "Joker",
+    "Rarity": "Uncommon",
+    "Cost": "$6",
+    "Effect": "Create a Tarot card when Blind is selected"
+  },
+  {
+    "Name": "Astronomer",
+    "Appearance": "https://balatro.wiki//imported/astronomer.png",
+    "Type": "Joker",
+    "Rarity": "Uncommon",
+    "Cost": "$8",
+    "Effect": "All Planet cards and Celstial Packs in the shop are free"
+  },
+  {
+    "Name": "Burnt Joker",
+    "Appearance": "https://balatro.wiki//imported/burning_joker.png",
+    "Type": "Joker",
+    "Rarity": "Uncommon",
+    "Cost": "$8",
+    "Effect": "Upgrade the level of the first Discarded poker hand each round"
+  },
+  {
+    "Name": "Bootstraps",
+    "Appearance": "https://balatro.wiki//imported/bootstraps.png",
+    "Type": "Joker",
+    "Rarity": "Uncommon",
+    "Cost": "$10",
+    "Effect": "+2 Mult for every $5 you have"
+  },
+  {
+    "Name": "Canio",
+    "Appearance": "https://balatro.wiki//jokers/caino.png",
+    "Type": "Joker",
+    "Rarity": "Legendary",
+    "Cost": "N/A",
+    "Effect": "Gain X1 Mult when a face card is destroyed"
+  },
+  {
+    "Name": "Triboulet",
+    "Appearance": "https://balatro.wiki//imported/triboulet.png",
+    "Type": "Joker",
+    "Rarity": "Legendary",
+    "Cost": "N/A",
+    "Effect": "Played Kings and Queens each give X2 Mult when scored"
+  },
+  {
+    "Name": "Yorick",
+    "Appearance": "https://balatro.wiki//imported/yorick.png",
+    "Type": "Joker",
+    "Rarity": "Legendary",
+    "Cost": "N/A",
+    "Effect": "X5 Mult only after using 23 Discards"
+  },
+  {
+    "Name": "Chicot",
+    "Appearance": "https://balatro.wiki//imported/chicot.png",
+    "Type": "Joker",
+    "Rarity": "Legendary",
+    "Cost": "N/A",
+    "Effect": "Disables effect of every Boss Blind"
+  },
+  {
+    "Name": "Perkeo",
+    "Appearance": "https://balatro.wiki//imported/perkeo.png",
+    "Type": "Joker",
+    "Rarity": "Legendary",
+    "Cost": "N/A",
+    "Effect": "Creates a Negative copy of 1 random consumable card in your posession at the end of the shop"
+  },
+  {
+    "Name": "Mercury",
+    "Appearance": "https://balatro.wiki//planets/planet_mercury.png",
+    "Type": "Planet",
+    "Effect": "Pair +1 mult and +15 chips"
+  },
+  {
+    "Name": "Venus",
+    "Appearance": "https://balatro.wiki//planets/planet_venus.png",
+    "Type": "Planet",
+    "Effect": "Three of a Kind +2 mult and +20 chips"
+  },
+  {
+    "Name": "Earth",
+    "Appearance": "https://balatro.wiki//planets/planet_earth.png",
+    "Type": "Planet",
+    "Effect": "Full House +2 mult and +25 chips"
+  },
+  {
+    "Name": "Mars",
+    "Appearance": "https://balatro.wiki//planets/planet_mars.png",
+    "Type": "Planet",
+    "Effect": "Four of a Kind +3 mult and +30 chips"
+  },
+  {
+    "Name": "Jupiter",
+    "Appearance": "https://balatro.wiki//planets/planet_jupiter.png",
+    "Type": "Planet",
+    "Effect": "Flush +2 mult and +15 chips"
+  },
+  {
+    "Name": "Saturn",
+    "Appearance": "https://balatro.wiki//planets/planet_saturn.png",
+    "Type": "Planet",
+    "Effect": "Straight +2 mult and +30 chips"
+  },
+  {
+    "Name": "Uranus",
+    "Appearance": "https://balatro.wiki//planets/planet_uranus.png",
+    "Type": "Planet",
+    "Effect": "Two Pair +1 mult and +20 chips"
+  },
+  {
+    "Name": "Neptune",
+    "Appearance": "https://balatro.wiki//planets/planet_neptune.png",
+    "Type": "Planet",
+    "Effect": "Straight Flush +3 mult and +40 chips"
+  },
+  {
+    "Name": "Pluto",
+    "Appearance": "https://balatro.wiki//planets/planet_pluto.png",
+    "Type": "Planet",
+    "Effect": "High Card +1 mult and +10 chips"
+  },
+  {
+    "Name": "Planet X",
+    "Appearance": "https://balatro.wiki//planets/planet_x.png",
+    "Type": "Planet",
+    "Effect": "Five of a Kind +3 mult and +35 chips"
+  },
+  {
+    "Name": "Ceres",
+    "Appearance": "https://balatro.wiki//planets/planet_ceres.png",
+    "Type": "Planet",
+    "Effect": "Flush House +3 mult and +40 chips"
+  },
+  {
+    "Name": "Eris",
+    "Appearance": "https://balatro.wiki//planets/planet_eris.png",
+    "Type": "Planet",
+    "Effect": "Flush Five +3 mult and +35 chips"
+  },
+  {
+    "Name": "The Fool",
+    "Appearance": "https://balatro.wiki//tarots/fool.png",
+    "Type": "Tarot",
+    "Effect": "Spawns the last Tarot or Planet card used during this run, Excludes The Fool"
+  },
+  {
+    "Name": "The Magician",
+    "Appearance": "https://balatro.wiki//tarots/magician.png",
+    "Type": "Tarot",
+    "Effect": "Enhances 1 selected card into a Lucky Card"
+  },
+  {
+    "Name": "The High Priestess",
+    "Appearance": "https://balatro.wiki//tarots/high_priestess.png",
+    "Type": "Tarot",
+    "Effect": "Spawns up to 2 random Planet cards , Must have room"
+  },
+  {
+    "Name": "The Empress",
+    "Appearance": "https://balatro.wiki//tarots/empress.png",
+    "Type": "Tarot",
+    "Effect": "Enhances up to 2 selected cards to Mult Cards"
+  },
+  {
+    "Name": "The Emperor",
+    "Appearance": "https://balatro.wiki//tarots/emperor.png",
+    "Type": "Tarot",
+    "Effect": "Creates up to 2 random Tarot cards , Must have room"
+  },
+  {
+    "Name": "The Hierophant",
+    "Appearance": "https://balatro.wiki//tarots/hierophant.png",
+    "Type": "Tarot",
+    "Effect": "Enhances up to 2 selected cards to Bonus Cards"
+  },
+  {
+    "Name": "The Lovers",
+    "Appearance": "https://balatro.wiki//tarots/lovers.png",
+    "Type": "Tarot",
+    "Effect": "Enhances 1 selected card into a Wild Card"
+  },
+  {
+    "Name": "The Chariot",
+    "Appearance": "https://balatro.wiki//tarots/chariot.png",
+    "Type": "Tarot",
+    "Effect": "Enhances 1 selected card into a Steel Card"
+  },
+  {
+    "Name": "Justice",
+    "Appearance": "https://balatro.wiki//tarots/justice.png",
+    "Type": "Tarot",
+    "Effect": "Enhances 1 selected card into a Glass Card"
+  },
+  {
+    "Name": "The Hermit",
+    "Appearance": "https://balatro.wiki//tarots/hermit.png",
+    "Type": "Tarot",
+    "Effect": "Doubles money, Max of $20"
+  },
+  {
+    "Name": "The Wheel of Fortune",
+    "Appearance": "https://balatro.wiki//tarots/wheel.png",
+    "Type": "Tarot",
+    "Effect": "1 in 4 chance to add Foil, Holographic, or Polychrome edition to a random Joker"
+  },
+  {
+    "Name": "Strength",
+    "Appearance": "https://balatro.wiki//tarots/strength.png",
+    "Type": "Tarot",
+    "Effect": "Increases rank of up to 2 selected cards by 1"
+  },
+  {
+    "Name": "The Hanged Man",
+    "Appearance": "https://balatro.wiki//tarots/hanged_man.png",
+    "Type": "Tarot",
+    "Effect": "Destroys up to 2 selected cards"
+  },
+  {
+    "Name": "Death",
+    "Appearance": "https://balatro.wiki//tarots/death.png",
+    "Type": "Tarot",
+    "Effect": "Select 2 cards, convert the left card into the right cardDrag to rearrange"
+  },
+  {
+    "Name": "Temperance",
+    "Appearance": "https://balatro.wiki//tarots/temperance.png",
+    "Type": "Tarot",
+    "Effect": "Gives the total sell value of all current Jokers , Max of $50"
+  },
+  {
+    "Name": "The Devil",
+    "Appearance": "https://balatro.wiki//tarots/devil.png",
+    "Type": "Tarot",
+    "Effect": "Enhances 1 selected card into a Gold Card"
+  },
+  {
+    "Name": "The Tower",
+    "Appearance": "https://balatro.wiki//tarots/tower.png",
+    "Type": "Tarot",
+    "Effect": "Enhances 1 selected card into a Stone Card"
+  },
+  {
+    "Name": "The Star",
+    "Appearance": "https://balatro.wiki//tarots/star.png",
+    "Type": "Tarot",
+    "Effect": "Converts up to 3 selected cards to Diamonds"
+  },
+  {
+    "Name": "The Moon",
+    "Appearance": "https://balatro.wiki//tarots/moon.png",
+    "Type": "Tarot",
+    "Effect": "Converts up to 3 selected cards to Clubs"
+  },
+  {
+    "Name": "The Sun",
+    "Appearance": "https://balatro.wiki//tarots/sun.png",
+    "Type": "Tarot",
+    "Effect": "Converts up to 3 selected cards to Hearts"
+  },
+  {
+    "Name": "Judgement",
+    "Appearance": "https://balatro.wiki//tarots/judgement.png",
+    "Type": "Tarot",
+    "Effect": "Spawns a random Joker card , Must have room"
+  },
+  {
+    "Name": "The World",
+    "Appearance": "https://balatro.wiki//tarots/world.png",
+    "Type": "Tarot",
+    "Effect": "Converts up to 3 selected cards to Spades"
+  },
+  {
+    "Name": "Overstock",
+    "Appearance": "https://balatro.wiki//vouchers/1-overstock.png",
+    "Type": "Voucher",
+    "Effect": "+1 card slot available in shop"
+  },
+  {
+    "Name": "Clearance Sale",
+    "Appearance": "https://balatro.wiki//vouchers/4-clearance-sale.png",
+    "Type": "Voucher",
+    "Effect": "All cards and packs in shop are 25% off"
+  },
+  {
+    "Name": "Hone",
+    "Appearance": "https://balatro.wiki//vouchers/5-hone.png",
+    "Type": "Voucher",
+    "Effect": "Foil, Holographic, and Polychrome cards appear 2X more often"
+  },
+  {
+    "Name": "Reroll Surplus",
+    "Appearance": "https://balatro.wiki//vouchers/9-reroll-surplus.png",
+    "Type": "Voucher",
+    "Effect": "Rerolls cost $2 less"
+  },
+  {
+    "Name": "Crystal Ball",
+    "Appearance": "https://balatro.wiki//vouchers/11-crystal-ball.png",
+    "Type": "Voucher",
+    "Effect": "+1 consumable slot"
+  },
+  {
+    "Name": "Telescope",
+    "Appearance": "https://balatro.wiki//vouchers/12-telescope.png",
+    "Type": "Voucher",
+    "Effect": "Celestial Packs always contain the Planet card for your most played Poker Hand"
+  },
+  {
+    "Name": "Grabber",
+    "Appearance": "https://balatro.wiki//vouchers/6-grabber.png",
+    "Type": "Voucher",
+    "Effect": "Permanently gain +1 hand per round"
+  },
+  {
+    "Name": "Wasteful",
+    "Appearance": "https://balatro.wiki//vouchers/7-wasteful.png",
+    "Type": "Voucher",
+    "Effect": "Permanently gain +1 discard per round"
+  },
+  {
+    "Name": "Tarot Merchant",
+    "Appearance": "https://balatro.wiki//vouchers/2-tarot-merchant.png",
+    "Type": "Voucher",
+    "Effect": "Tarot cards appear 2X more frequently in the shop"
+  },
+  {
+    "Name": "Planet Merchant",
+    "Appearance": "https://balatro.wiki//vouchers/3-planet-merchant.png",
+    "Type": "Voucher",
+    "Effect": "Planet cards appear 2X more frequently in the shop"
+  },
+  {
+    "Name": "Seed Money",
+    "Appearance": "https://balatro.wiki//vouchers/10-seed-money.png",
+    "Type": "Voucher",
+    "Effect": "Raise the cap on interest earned per round to $10"
+  },
+  {
+    "Name": "Blank",
+    "Appearance": "https://balatro.wiki//vouchers/8-blank.png",
+    "Type": "Voucher",
+    "Effect": "Does nothing? sic"
+  },
+  {
+    "Name": "Magic Trick",
+    "Appearance": "https://balatro.wiki//vouchers/name-unknown/13.png",
+    "Type": "Voucher",
+    "Effect": "Playing cards can be purchased from the Shop"
+  },
+  {
+    "Name": "Hieroglyph",
+    "Appearance": "https://balatro.wiki//vouchers/14-hieroglyph.png",
+    "Type": "Voucher",
+    "Effect": "-1 Ante, -1 hand per round"
+  },
+  {
+    "Name": "Director’s Cut",
+    "Appearance": "https://balatro.wiki//vouchers/15-directors-cut.png",
+    "Type": "Voucher",
+    "Effect": "Reroll Boss Blind 1 time per Ante. $10 per roll"
+  },
+  {
+    "Name": "Paint Brush",
+    "Appearance": "https://balatro.wiki//vouchers/vourcher_paintbrush.png",
+    "Type": "Voucher",
+    "Effect": "+1 hand size"
+  },
+  {
+    "Name": "Name",
+    "Appearance": "https://balatro.wiki/undefined",
+    "Type": "Voucher",
+    "Effect": "Effect"
+  },
+  {
+    "Name": "Overstock Plus",
+    "Appearance": "https://balatro.wiki//vouchers/name-unknown/1-2.png",
+    "Type": "Voucher",
+    "Effect": "+1 card slot available in shop"
+  },
+  {
+    "Name": "Liquidation",
+    "Appearance": "https://balatro.wiki//vouchers/4-up-liquidation.png",
+    "Type": "Voucher",
+    "Effect": "All cards and packs in shop are 50% off"
+  },
+  {
+    "Name": "Glow Up",
+    "Appearance": "https://balatro.wiki//vouchers/name-unknown/5-2.png",
+    "Type": "Voucher",
+    "Effect": "Foil, Holographic, and Polychrome cards appear 4X more often"
+  },
+  {
+    "Name": "Reroll Glut",
+    "Appearance": "https://balatro.wiki//vouchers/name-unknown/9-2.png",
+    "Type": "Voucher",
+    "Effect": "Rerolls cost $2 less"
+  },
+  {
+    "Name": "Omen Globe",
+    "Appearance": "https://balatro.wiki//vouchers/name-unknown/11-2.png",
+    "Type": "Voucher",
+    "Effect": "Spectral cards may appear in any Arcana Pack"
+  },
+  {
+    "Name": "Observatory",
+    "Appearance": "https://balatro.wiki//vouchers/name-unknown/12-2.png",
+    "Type": "Voucher",
+    "Effect": "Planet cards in your consumable area give X1.5 Mult for their specified Poker Hand"
+  },
+  {
+    "Name": "Nacho Tong",
+    "Appearance": "https://balatro.wiki//vouchers/name-unknown/6-2.png",
+    "Type": "Voucher",
+    "Effect": "Permanently gain +1 hand per round"
+  },
+  {
+    "Name": "Recyclomancy",
+    "Appearance": "https://balatro.wiki//vouchers/name-unknown/7-2.png",
+    "Type": "Voucher",
+    "Effect": "Permanently gain +1 discard per round"
+  },
+  {
+    "Name": "Money Tree",
+    "Appearance": "https://balatro.wiki//vouchers/name-unknown/10-2.png",
+    "Type": "Voucher",
+    "Effect": "Raise the cap on interest earned per round to $20"
+  },
+  {
+    "Name": "Antimatter",
+    "Appearance": "https://balatro.wiki//vouchers/name-unknown/8-2.png",
+    "Type": "Voucher",
+    "Effect": "+1 Joker slot"
+  },
+  {
+    "Name": "Tarot Tycoon",
+    "Appearance": "https://balatro.wiki//vouchers/name-unknown/2-2.png",
+    "Type": "Voucher",
+    "Effect": "Tarot cards appear 4X more frequently in the shop"
+  },
+  {
+    "Name": "Planet Tycoon",
+    "Appearance": "https://balatro.wiki//vouchers/name-unknown/3-2.png",
+    "Type": "Voucher",
+    "Effect": "Planet cards appear 4X more frequently in the shop"
+  },
+  {
+    "Name": "Illusion",
+    "Appearance": "https://balatro.wiki//vouchers/name-unknown/13-2.png",
+    "Type": "Voucher",
+    "Effect": "Playing cards in the Shop may have an Enhancement, Edition, and/or a Seal"
+  },
+  {
+    "Name": "Petroglyph",
+    "Appearance": "https://balatro.wiki//vouchers/name-unknown/14-2.png",
+    "Type": "Voucher",
+    "Effect": "-1 Ante, -1 discard per round"
+  },
+  {
+    "Name": "Retcon",
+    "Appearance": "https://balatro.wiki//vouchers/name-unknown/15-2.png",
+    "Type": "Voucher",
+    "Effect": "Reroll Boss Blind unlimited times, $10 per roll"
+  },
+  {
+    "Name": "Palette",
+    "Appearance": "https://balatro.wiki//vouchers/vourcher_palette.png",
+    "Type": "Voucher",
+    "Effect": "+1 hand size"
+  },
+  {
+    "Name": "Familiar",
+    "Appearance": "https://balatro.wiki//spectrals/familiar.png",
+    "Type": "Spectral",
+    "Effect": "Destroy 1 random card in your hand, add 3 random Enhanced face cards to your hand"
+  },
+  {
+    "Name": "Grim",
+    "Appearance": "https://balatro.wiki//spectrals/grim.png",
+    "Type": "Spectral",
+    "Effect": "Destroy 1 random card in your hand, add 2 random Enhanced Aces to your hand"
+  },
+  {
+    "Name": "Incantation",
+    "Appearance": "https://balatro.wiki//spectrals/incantation.png",
+    "Type": "Spectral",
+    "Effect": "Destroy 1 random card in your hand, add 4 random Enhanced numbered cards to your hand"
+  },
+  {
+    "Name": "Talisman",
+    "Appearance": "https://balatro.wiki//spectrals/talisman.png",
+    "Type": "Spectral",
+    "Effect": "Add Gold Seal to 1 selected card in your hand"
+  },
+  {
+    "Name": "Aura",
+    "Appearance": "https://balatro.wiki//spectrals/aura.png",
+    "Type": "Spectral",
+    "Effect": "Add Foil, Holographic, or Polychrome effect to 1 selected card in hand"
+  },
+  {
+    "Name": "Wraith",
+    "Appearance": "https://balatro.wiki//spectrals/wraith.png",
+    "Type": "Spectral",
+    "Effect": "Creates a random Rare Joker, sets money to $0"
+  },
+  {
+    "Name": "Sigil",
+    "Appearance": "https://balatro.wiki//spectrals/sigil.png",
+    "Type": "Spectral",
+    "Effect": "Converts all cards in hand to a single random suit"
+  },
+  {
+    "Name": "Ouija",
+    "Appearance": "https://balatro.wiki//spectrals/ouija.png",
+    "Type": "Spectral",
+    "Effect": "Converts all cards in hand to a single random rank -1 hand size"
+  },
+  {
+    "Name": "Ectoplasm",
+    "Appearance": "https://balatro.wiki//spectrals/ectoplasm.png",
+    "Type": "Spectral",
+    "Effect": "Add Negative to a random Joker, -1 hand size"
+  },
+  {
+    "Name": "Immolate",
+    "Appearance": "https://balatro.wiki//spectrals/immolate.png",
+    "Type": "Spectral",
+    "Effect": "Destroys 5 random cards in hand, gain $20"
+  },
+  {
+    "Name": "Ankh",
+    "Appearance": "https://balatro.wiki//spectrals/spectral_ankh.png",
+    "Type": "Spectral",
+    "Effect": "Create a copy of a random Joker, destroy all other Jokers"
+  },
+  {
+    "Name": "Déjà Vu",
+    "Appearance": "https://balatro.wiki//spectrals/spectral_dejavu.png",
+    "Type": "Spectral",
+    "Effect": "Add a Red Seal to 1 selected card in your hand"
+  },
+  {
+    "Name": "Hex",
+    "Appearance": "https://balatro.wiki//spectrals/spectral_hex.png",
+    "Type": "Spectral",
+    "Effect": "Add Polychrome to a random Joker, destroy all other Jokers"
+  },
+  {
+    "Name": "Trance",
+    "Appearance": "https://balatro.wiki//spectrals/spectral_trance.png",
+    "Type": "Spectral",
+    "Effect": "Add a Blue Seal to 1 selected card in your hand"
+  },
+  {
+    "Name": "Medium",
+    "Appearance": "https://balatro.wiki//spectrals/spectral_medium.png",
+    "Type": "Spectral",
+    "Effect": "Add a Purple Seal to 1 selected card in your hand"
+  },
+  {
+    "Name": "Cryptid",
+    "Appearance": "https://balatro.wiki//spectrals/spectral_cryptid.png",
+    "Type": "Spectral",
+    "Effect": "Create 2 copies of 1 selected card in your hand"
+  },
+  {
+    "Name": "Soul",
+    "Appearance": "https://balatro.wiki//spectrals/spectral_soul.png",
+    "Type": "Spectral",
+    "Effect": "Creates a Legendary Joker"
+  },
+  {
+    "Name": "Black Hole",
+    "Appearance": "https://balatro.wiki//spectrals/black_hole.png",
+    "Type": "Spectral",
+    "Effect": "Upgrade every poker hand by 1 level"
+  },
+  {
+    "Name": "Red",
+    "Appearance": "https://balatro.wiki//decks/deck_red.png",
+    "Type": "Deck",
+    "Effect": "+1 discard every round",
+    "Unlock": "Unlocked by default"
+  },
+  {
+    "Name": "Blue",
+    "Appearance": "https://balatro.wiki//decks/deck_blue.png",
+    "Type": "Deck",
+    "Effect": "+1 hand every round",
+    "Unlock": "Discover at least 20 items from your collection"
+  },
+  {
+    "Name": "Yellow",
+    "Appearance": "https://balatro.wiki//decks/deck_yellow.png",
+    "Type": "Deck",
+    "Effect": "Start with extra $10",
+    "Unlock": "Discover at least 50 items from your collection"
+  },
+  {
+    "Name": "Green",
+    "Appearance": "https://balatro.wiki//decks/deck_green.png",
+    "Type": "Deck",
+    "Effect": "At the end of each Round: $2 per remaining Hand, $1 per remaining Discard, Earn no Interest",
+    "Unlock": "Discover at least 75 items from your collection"
+  },
+  {
+    "Name": "Black",
+    "Appearance": "https://balatro.wiki//decks/deck_black.png",
+    "Type": "Deck",
+    "Effect": "+1 Joker slot.  -1 hand every round",
+    "Unlock": "Discover at least 100 items from your collection"
+  },
+  {
+    "Name": "Magic",
+    "Appearance": "https://balatro.wiki//decks/deck_magic.png",
+    "Type": "Deck",
+    "Effect": "Start run with the Crystal Ball voucher active and two copies of The Fool",
+    "Unlock": "Win a run with Red Deck on any difficulty"
+  },
+  {
+    "Name": "Nebula",
+    "Appearance": "https://balatro.wiki//decks/deck_nebula.png",
+    "Type": "Deck",
+    "Effect": "Start run with the Telescope voucher active, -1 consumable slot",
+    "Unlock": "Win a run with Blue Deck on any difficulty"
+  },
+  {
+    "Name": "Ghost",
+    "Appearance": "https://balatro.wiki//ghost.png",
+    "Type": "Deck",
+    "Effect": "Spectral cards may appear in the shop, start with a Hex card",
+    "Unlock": "Win a run with Yellow Deck on any difficulty"
+  },
+  {
+    "Name": "Abandoned",
+    "Appearance": "https://balatro.wiki//decks/deck_abandoned.png",
+    "Type": "Deck",
+    "Effect": "Start run with no Face Cards in your deck",
+    "Unlock": "Win a run with Green Deck on any difficulty"
+  },
+  {
+    "Name": "Checkered",
+    "Appearance": "https://balatro.wiki//decks/deck_checkered.png",
+    "Type": "Deck",
+    "Effect": "Start run with 26 Spades and 26 Hearts in deck",
+    "Unlock": "Win a run with Black Deck on any difficulty"
+  },
+  {
+    "Name": "Zodiac",
+    "Appearance": "https://balatro.wiki//zodiac.png",
+    "Type": "Deck",
+    "Effect": "Start run with Tarot Merchant, Planet Merchant, and Overstock",
+    "Unlock": "Win a run on any deck with at least Red Stake difficulty"
+  },
+  {
+    "Name": "Painted",
+    "Appearance": "https://balatro.wiki//painted.png",
+    "Type": "Deck",
+    "Effect": "+2 hand size, -1 Joker slot",
+    "Unlock": "Win a run on any deck with at least Green Stake difficulty"
+  },
+  {
+    "Name": "Anaglyph",
+    "Appearance": "https://balatro.wiki//decks/deck_analgyph.png",
+    "Type": "Deck",
+    "Effect": "After defeating each Boss Blind, gain a Double Tag",
+    "Unlock": "Win a run on any deck with at least Black Stake difficulty"
+  },
+  {
+    "Name": "Plasma",
+    "Appearance": "https://balatro.wiki//plasma.png",
+    "Type": "Deck",
+    "Effect": "Balance Chips and Mult when calculating score for played hand, X2 base Blind size",
+    "Unlock": "Win a run on any deck with at least Blue Stake difficulty"
+  },
+  {
+    "Name": "Erratic",
+    "Appearance": "https://balatro.wiki//decks/deck_erratic.png",
+    "Type": "Deck",
+    "Effect": "All Ranks and Suits in deck are randomized",
+    "Unlock": "Win a run on any deck with at least Orange Stake difficulty"
+  },
+  {
+    "Name": "",
+    "Appearance": "https://balatro.wiki/undefined",
+    "Type": "Deck",
+    "Effect": "",
+    "Unlock": ""
+  },
+  {
+    "Name": "Braided",
+    "Appearance": "https://balatro.wiki//decks/deck_braided.png",
+    "Type": "Deck",
+    "Effect": "Most Played hand starts at lvl.3",
+    "Unlock": "Deprecated (Removed from game)"
+  },
+  {
+    "Name": "Silver",
+    "Appearance": "https://balatro.wiki//decks/deck_silver.png",
+    "Type": "Deck",
+    "Effect": "Start run with one Joker",
+    "Unlock": "Deprecated (Removed from game)"
+  },
+  {
+    "Name": "Foil",
+    "Appearance": "https://balatro.wiki//decks/deck_foil.png",
+    "Type": "Deck",
+    "Effect": "Add Foil to 3 random cards in deck",
+    "Unlock": "Deprecated (Removed from game)"
+  },
+  {
+    "Name": "Holographic",
+    "Appearance": "https://balatro.wiki//decks/deck_blue.png",
+    "Type": "Deck",
+    "Effect": "Add Holographic to 2 random cards in deck",
+    "Unlock": "Deprecated (Removed from game)"
+  },
+  {
+    "Name": "Polychrome",
+    "Appearance": "https://balatro.wiki//decks/deck_polychrome.png",
+    "Type": "Deck",
+    "Effect": "Add Polychrome to 1 random card in deck",
+    "Unlock": "Deprecated (Removed from game)"
+  },
+  {
+    "Name": "Uncommon",
+    "Appearance": "https://balatro.wiki//tags/tags_uncommon.png",
+    "Type": "Tag",
+    "Effect": "Shop has an Uncommon Joker"
+  },
+  {
+    "Name": "Rare",
+    "Appearance": "https://balatro.wiki//tags/tags_rare.png",
+    "Type": "Tag",
+    "Effect": "Shop has a Rare Joker"
+  },
+  {
+    "Name": "Negative",
+    "Appearance": "https://balatro.wiki//tags/tags_negative.png",
+    "Type": "Tag",
+    "Effect": "Shop has a Negative Joker"
+  },
+  {
+    "Name": "Foil",
+    "Appearance": "https://balatro.wiki//tags/tags_foil.png",
+    "Type": "Tag",
+    "Effect": "Shop has a Foil Joker"
+  },
+  {
+    "Name": "Holographic",
+    "Appearance": "https://balatro.wiki//tags/tags_holographic.png",
+    "Type": "Tag",
+    "Effect": "Shop has a Holographic Joker"
+  },
+  {
+    "Name": "Polychrome",
+    "Appearance": "https://balatro.wiki//tags/tags_polychrome.png",
+    "Type": "Tag",
+    "Effect": "Shop has a Polychrome Joker"
+  },
+  {
+    "Name": "Investment",
+    "Appearance": "https://balatro.wiki//tags/tags_investment.png",
+    "Type": "Tag",
+    "Effect": "After defeating the Boss Blind, gain $15"
+  },
+  {
+    "Name": "Voucher",
+    "Appearance": "https://balatro.wiki//tags/tags_voucher.png",
+    "Type": "Tag",
+    "Effect": "Adds one Voucher to the next shop"
+  },
+  {
+    "Name": "Boss",
+    "Appearance": "https://balatro.wiki//tags/tags_boss.png",
+    "Type": "Tag",
+    "Effect": "Rerolls the Boss Blind"
+  },
+  {
+    "Name": "Standard",
+    "Appearance": "https://balatro.wiki//tags/tags_standard.png",
+    "Type": "Tag",
+    "Effect": "Gives a free Standard Pack"
+  },
+  {
+    "Name": "Charm",
+    "Appearance": "https://balatro.wiki//tags/tags_charm.png",
+    "Type": "Tag",
+    "Effect": "Gives a free Mega Arcana Pack"
+  },
+  {
+    "Name": "Meteor",
+    "Appearance": "https://balatro.wiki//tags/tags_celestial.png",
+    "Type": "Tag",
+    "Effect": "Gives a free Mega Celestial Pack"
+  },
+  {
+    "Name": "Buffoon",
+    "Appearance": "https://balatro.wiki//tags/tags_buffoon.png",
+    "Type": "Tag",
+    "Effect": "Gives a free Buffoon Pack"
+  },
+  {
+    "Name": "Handy",
+    "Appearance": "https://balatro.wiki//tags/tags_handy.png",
+    "Type": "Tag",
+    "Effect": "Gives $1 per played hand this run (Will give $X)"
+  },
+  {
+    "Name": "Garbage",
+    "Appearance": "https://balatro.wiki//tags/tags_garbage.png",
+    "Type": "Tag",
+    "Effect": "Gives $1 per unused discard this run (Will give $X)"
+  },
+  {
+    "Name": "Ethereal",
+    "Appearance": "https://balatro.wiki//tags/tags_spectral.png",
+    "Type": "Tag",
+    "Effect": "Gives a free Spectral Pack"
+  },
+  {
+    "Name": "Coupon",
+    "Appearance": "https://balatro.wiki//tags/tags_coupon.png",
+    "Type": "Tag",
+    "Effect": "Initial cards and booster packs in next shop are free"
+  },
+  {
+    "Name": "Double",
+    "Appearance": "https://balatro.wiki//tags/tags_double.png",
+    "Type": "Tag",
+    "Effect": "Gives a copy of the next selected Tag\n          Double Tag excluded"
+  },
+  {
+    "Name": "Juggle",
+    "Appearance": "https://balatro.wiki//tags/tags_juggle.png",
+    "Type": "Tag",
+    "Effect": "Hold +3 cards in next round"
+  },
+  {
+    "Name": "D6",
+    "Appearance": "https://balatro.wiki//tags/tags_d6.png",
+    "Type": "Tag",
+    "Effect": "Rerolls in next shop start at $0"
+  },
+  {
+    "Name": "Top-Up",
+    "Appearance": "https://balatro.wiki//tags/tags_topup.png",
+    "Type": "Tag",
+    "Effect": "Create up to 2 common JokersMust have room"
+  },
+  {
+    "Name": "Skip",
+    "Appearance": "https://balatro.wiki//tags/tags_skip.png",
+    "Type": "Tag",
+    "Effect": "Gives $5 per skipped Blind this run\n          Minimum of $5"
+  },
+  {
+    "Name": "Orbital",
+    "Appearance": "https://balatro.wiki//tags/tags_orbital.png",
+    "Type": "Tag",
+    "Effect": "Upgrade [Random Poker Hand] by 3 levels"
+  },
+  {
+    "Name": "Economy",
+    "Appearance": "https://balatro.wiki//tags/tags_economy.png",
+    "Type": "Tag",
+    "Effect": "Doubles your money\n          Maximum of $40"
+  },
+  {
+    "Name": "Arcana",
+    "Appearance": "https://balatro.wiki//packs/booster_arcana_a.png",
+    "Type": "Pack",
+    "Effect": "Choose 1 of up to 3 Tarot cards to be used immediately"
+  },
+  {
+    "Name": "Jumbo Arcana",
+    "Appearance": "https://balatro.wiki//packs/booster_arcana_jumbo_a.png",
+    "Type": "Pack",
+    "Effect": "Choose 1 of up to 5 Tarot cards to be used immediately"
+  },
+  {
+    "Name": "Mega Arcana",
+    "Appearance": "https://balatro.wiki//packs/booster_arcana_mega_a.png",
+    "Type": "Pack",
+    "Effect": "Choose 2 of up to 5 Tarot cards to be used immediately"
+  },
+  {
+    "Name": "Celestial",
+    "Appearance": "https://balatro.wiki//packs/booster_celestial_a.png",
+    "Type": "Pack",
+    "Effect": "Choose 1 of up to 3 Planet cards to be used immediately"
+  },
+  {
+    "Name": "Jumbo Celestial",
+    "Appearance": "https://balatro.wiki//packs/booster_celestial_jumbo_a.png",
+    "Type": "Pack",
+    "Effect": "Choose 1 of up to 5 Planet cards to be used immediately"
+  },
+  {
+    "Name": "Mega Celestial",
+    "Appearance": "https://balatro.wiki//packs/booster_celestial_mega_a.png",
+    "Type": "Pack",
+    "Effect": "Choose 2 of up to 5 Planet cards to be used immediately"
+  },
+  {
+    "Name": "Standard",
+    "Appearance": "https://balatro.wiki//packs/booster_standard_a.png",
+    "Type": "Pack",
+    "Effect": "Choose 1 of up to 3 Playing cards to add to your deck"
+  },
+  {
+    "Name": "Jumbo Standard",
+    "Appearance": "https://balatro.wiki//packs/booster_standard_jumbo_a.png",
+    "Type": "Pack",
+    "Effect": "Choose 1 of up to 5 Playing cards to add to your deck"
+  },
+  {
+    "Name": "Mega Standard",
+    "Appearance": "https://balatro.wiki//packs/booster_standard_mega_b.png",
+    "Type": "Pack",
+    "Effect": "Choose 2 of up to 5 Playing cards to add to your deck"
+  },
+  {
+    "Name": "Buffoon",
+    "Appearance": "https://balatro.wiki//packs/booster_buffoon_a.png",
+    "Type": "Pack",
+    "Effect": "Choose 1 of up to 2 Joker cards"
+  },
+  {
+    "Name": "Jumbo Buffoon",
+    "Appearance": "https://balatro.wiki//packs/booster_buffoon_jumbo.png",
+    "Type": "Pack",
+    "Effect": "Choose 1 of up to 4 Joker cards"
+  },
+  {
+    "Name": "Mega Buffoon",
+    "Appearance": "https://balatro.wiki//packs/booster_buffoon_mega.png",
+    "Type": "Pack",
+    "Effect": "Choose 2 of up to 4 Joker cards"
+  },
+  {
+    "Name": "Spectral",
+    "Appearance": "https://balatro.wiki//packs/booster_spectral_a_.png",
+    "Type": "Pack",
+    "Effect": "Choose 1 of up to 2 Spectral cards to be used immediately"
+  },
+  {
+    "Name": "Jumbo Spectral",
+    "Appearance": "https://balatro.wiki//packs/booster_spectral_jumbo.png",
+    "Type": "Pack",
+    "Effect": "Choose 1 of up to 4 Spectral cards to be used immediately"
+  },
+  {
+    "Name": "Mega Spectral",
+    "Appearance": "https://balatro.wiki//packs/booster_spectral_mega.png",
+    "Type": "Pack",
+    "Effect": "Choose 2 of up to 4 Spectral cards to be used immediately"
+  }
+]
